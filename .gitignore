@@ -90,3 +90,8 @@ ENV/
 .swp
 
 numerai_datasets/
+
+
+# Added by cargo
+
+**/target*/
